@@ -1,0 +1,40 @@
+PODS:
+  - Nimble (8.0.9)
+  - OHHTTPStubs/Core (8.0.0)
+  - OHHTTPStubs/Default (8.0.0):
+    - OHHTTPStubs/Core
+    - OHHTTPStubs/JSON
+    - OHHTTPStubs/NSURLSession
+    - OHHTTPStubs/OHPathHelpers
+  - OHHTTPStubs/JSON (8.0.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/NSURLSession (8.0.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/OHPathHelpers (8.0.0)
+  - OHHTTPStubs/Swift (8.0.0):
+    - OHHTTPStubs/Default
+  - R.swift (5.2.2):
+    - R.swift.Library (~> 5.2.0)
+  - R.swift.Library (5.2.0)
+
+DEPENDENCIES:
+  - Nimble (~> 8.0.2)
+  - OHHTTPStubs/Swift (~> 8.0)
+  - R.swift (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - OHHTTPStubs
+    - R.swift
+    - R.swift.Library
+
+SPEC CHECKSUMS:
+  Nimble: 98b888285a615fd34f20e61753cf58ea1402bde4
+  OHHTTPStubs: 9cbce6364bec557cc3439aa6bb7514670d780881
+  R.swift: 7c52cdc57a66840ffe6cbd8a823d732059d42a32
+  R.swift.Library: 5ba4f1631300caf9a4d890186930da85d540769d
+
+PODFILE CHECKSUM: 9a4fcfc5e71bc3c567d444476624a56850d05aed
+
+COCOAPODS: 1.9.1

@@ -1,0 +1,25 @@
+/* 
+  localized.strings
+  App
+
+  Created by Schön, Ralph on 17.06.19.
+  Copyright © 2019 Schön, Ralph. All rights reserved.
+*/
+
+// MARK: Base
+
+"appTitle" = "App";
+"okActionTitle" = "Ok";
+
+// MARK: ViewItemDetailPage
+
+"viewItemDetailPageBackTitle" = "Overview";
+
+// MARK: APPError
+
+"errorTitleNoInternetConnection" = "Connection issue";
+"errorTitleUnknown" = "Something went wrong";
+
+"errorNoInternetConnection" = "Please check your internet connection.";
+"errorNotFound" = "We could not find what you where looking for.";
+"errorUnknown" = "Please try again later.";

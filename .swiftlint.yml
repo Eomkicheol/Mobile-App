@@ -1,0 +1,26 @@
+disabled_rules:
+  - line_length
+  - trailing_whitespace
+  - vertical_whitespace
+  - identifier_name
+  - mark
+
+excluded: # paths to ignore during linting. Takes precedence over `included`.
+  - Pods
+  - App/Setup/R-swift
+
+function_body_length:
+  - 100
+  - 150
+
+type_body_length:
+  - 300
+  - 350
+
+nesting:
+  type_level:
+    warning: 2
+  statement_level:
+    warning: 10
+
+
